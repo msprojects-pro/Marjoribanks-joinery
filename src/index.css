@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-deep-black: #0B0B0F;
+    --color-signature-purple: #A437B8;
+    --color-electric-violet: #7B2CBF;
+    --color-champagne-gold: #E8C477;
+    --color-soft-grey: #F5F4F7;
+    --color-charcoal: #1C1B22;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, .font-serif-heading {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}

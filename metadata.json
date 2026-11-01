@@ -1,0 +1,6 @@
+{
+  "name": "Marjoribanks Joinery",
+  "description": "Bespoke joinery, luxury cabinetry, and carpentry across Edinburgh and the Central Belt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
